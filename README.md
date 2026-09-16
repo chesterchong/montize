@@ -28,6 +28,14 @@ This debug APK is for private testing; physical-phone/provider coverage remains 
 
 Records stay on-device; there is no cloud sync or export/restore. Uninstalling or clearing storage removes them. Internet access refreshes public exchange rates.
 
+## Copyright and usage
+
+Copyright © 2026 Chester Chong. All rights reserved in Montize’s original materials.
+
+Montize is provided for authorized personal use and testing. Unless permitted by applicable law or a third-party license, redistribution, public hosting, modification, resale or sublicensing requires prior written permission from the copyright holder.
+
+Third-party components remain subject to their respective copyright notices and licenses. This notice does not restrict rights granted by those licenses.
+
 **APK SHA-256**
 
 ```text
